@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local working copies — keep only index.html at the repo root
+*.bak
+*-draft.html
+*_old.html
+scratch/
+tmp/
+
+# Session exports and test data (may contain player moves or scenario notes)
+*.wsturn
+*.wsturn.json
+session-exports/
+aar-exports/
+
+# Python Lab Environment artifacts (kept in a separate repo)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
