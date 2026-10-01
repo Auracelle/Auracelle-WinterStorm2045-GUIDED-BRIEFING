@@ -1,0 +1,64 @@
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+
+Auracelle WinterStorm2045 — Decision Intelligence Instrument
+Copyright (c) 2026 Auracelle AI Governance Labs LLC.
+Developed independently by Grace-Alice Evans.
+
+1. OWNERSHIP
+This software, including its source code, design, scenarios, scoring logic,
+the E-IAIG-HT framework as implemented herein, documentation, and all
+associated materials (the "Software"), is the exclusive property of
+Auracelle AI Governance Labs LLC. The Software is protected by copyright
+and other intellectual property laws.
+
+2. PATENTS PENDING
+Methods and systems embodied in the Software are the subject of pending
+United States Patent and Trademark Office provisional patent applications.
+Publication of this repository does not grant, and shall not be construed
+as granting, any licence or right under any patent or patent application.
+
+3. LIMITED EVALUATION PERMISSION
+Members of the NATO STO SAC-219 panel, and individuals expressly authorized
+in writing by Auracelle AI Governance Labs LLC, may access and run the
+Software solely for the purpose of evaluating it in connection with SAC-219
+activities. No other use is permitted.
+
+4. RESTRICTIONS
+Except as expressly permitted in Section 3, you may not, in whole or in part:
+  (a) copy, reproduce, modify, translate, or create derivative works of the
+      Software;
+  (b) distribute, sublicense, sell, lease, publish, or otherwise make the
+      Software available to any third party;
+  (c) reverse engineer, decompile, or disassemble the Software, or extract
+      its scenarios, scoring models, or methodology for reuse;
+  (d) use the Software, its outputs, or its methodology to develop, train,
+      benchmark, or improve any competing product, model, or service,
+      including any artificial intelligence or machine learning system;
+  (e) remove or alter any proprietary notice, marking, or classification
+      handling statement.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Outputs of the
+Software, including Capability Gap values and outcome thresholds, are
+analytical and illustrative and must not be relied upon as operational,
+legal, or policy advice.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL AURACELLE AI GOVERNANCE LABS LLC OR GRACE-ALICE EVANS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+7. THIRD-PARTY COMPONENTS
+The Software embeds third-party open-source libraries (pdf.js, mammoth.js,
+tesseract.js, three.js), each of which remains subject to its own licence.
+Those licences apply only to the respective third-party components and do
+not extend to the Software as a whole.
+
+8. TERMINATION
+Any permission granted under Section 3 terminates automatically upon breach
+of these terms or upon written notice from Auracelle AI Governance Labs LLC.
+
+Requests for permissions beyond this licence should be directed to
+Grace-Alice Evans, Auracelle AI Governance Labs LLC.
